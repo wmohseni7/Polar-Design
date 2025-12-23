@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fa7de5f5db200e48a03efbca58d2b99, type: 3}
+  m_Name: GlobalIntensityRules
+  m_EditorClassIdentifier: 
+  rules:
+  - roomType: 0
+    minIntensity: 7
+    maxIntensity: 11
+    bonusScore:
+      design: 10
+      usure: 0
+      gout: 10
+  - roomType: 1
+    minIntensity: 2
+    maxIntensity: 6
+    bonusScore:
+      design: 10
+      usure: 0
+      gout: 10
+  - roomType: 2
+    minIntensity: 7
+    maxIntensity: 11
+    bonusScore:
+      design: 10
+      usure: 0
+      gout: 10

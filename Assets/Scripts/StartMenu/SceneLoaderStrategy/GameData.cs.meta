@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scripts/StartMenu/GameData.cs.meta
+guid: a3dfbfd6fcd5b47edb9031abdcc16f2d
+========
+guid: 446eee6d658a9a84ab4af68796bfce6e
+>>>>>>>> 339c19e874cf15c8f28e253eae6ecde401e014af:Assets/Scripts/ColorManager.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

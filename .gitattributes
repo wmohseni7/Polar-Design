@@ -1,0 +1,4 @@
+Release/build.zip filter=lfs diff=lfs merge=lfs -text
+polarDesignAssets.unitypackage filter=lfs diff=lfs merge=lfs -text
+*.unitypackage filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
