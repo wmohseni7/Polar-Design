@@ -50,7 +50,7 @@ Le projet repose sur une architecture modulaire utilisant des patrons de concept
 
 ### Système de décoration & mobilier
 
-![Ecran du jeu](./Readme_Images/Capture_d_ecran_2025-12-18_à_20.55.22.png)
+![Ecran du jeu](./Readme_Images/Capture_d_ecran_2025-12-18_à_20.55.22.png)
 
 * **Interaction 3D** : sélection directe des meubles par clic (`FurnitureSelector`)
 * **Variantes & scores** : chaque meuble propose 4 variantes influençant :
