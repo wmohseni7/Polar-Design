@@ -1,6 +1,6 @@
 # Polar Design : Concordia Architecture Simulator
 
-![Ecran d'accueil du jeu](./Readme_Images/Capture_d_écran_2025-12-18_à_20.45.22.png)
+![Ecran d'accueil du jeu](./Readme_Images/Capture_d_ecran_2025-12-18_à_20.45.22.png)
 
 # Polar Design : Concordia Architecture Simulator
 
