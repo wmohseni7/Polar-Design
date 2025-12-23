@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: ed84f57bfe11a491da7e7adfed70149e
+  - enabled: 1
+    path: Assets/Scenes/CalmTower/CT-FloorSelectScene.unity
+    guid: c7e3f123f4961476aa714322b40efafb
+  - enabled: 1
+    path: Assets/Scenes/CalmTower/FirstFloor/CT-1F-Bedroom1.unity
+    guid: 9054b53b04f8b1342b715bcbe297d505
+  - enabled: 1
+    path: Assets/Scenes/CalmTower/FirstFloor/CT-1F-Bedroom2.unity
+    guid: 314c858b03f76ed43bfc10c6d8dae3b2
+  - enabled: 1
+    path: Assets/Scenes/CalmTower/FirstFloor/CT-1F-Library.unity
+    guid: 3679957ecf8754cb192d20cbdaf75876
+  - enabled: 1
+    path: Assets/Scenes/CalmTower/FirstFloor/CT-1F-Dorm.unity
+    guid: 73227da99e47c734d800a781aa92f008
+  - enabled: 1
+    path: Assets/Scenes/CalmTower/FirstFloor/CT-1F-Washroom.unity
+    guid: 95f3dee672f244f27840baefe70c6643
+  - enabled: 1
+    path: Assets/Scenes/CalmTower/FirstFloor/SelectionScene/CT-1F-StageSelectScene.unity
+    guid: 5593b1f8d21154e50a23663fe875a34c
+  - enabled: 1
+    path: Assets/Scenes/CalmTower/GroundFloor/CT-GF-Bedroom1.unity
+    guid: 0b2c5976dbd4c4126b2535ab5a42a2d1
+  - enabled: 1
+    path: Assets/Scenes/CalmTower/GroundFloor/CT-GF-Bedroom2.unity
+    guid: d9588ac6073aa441185c4751edf9f719
+  - enabled: 1
+    path: Assets/Scenes/CalmTower/GroundFloor/CT-GF-Dorm.unity
+    guid: 7f8144450c777461f830530178aab705
+  - enabled: 1
+    path: Assets/Scenes/CalmTower/GroundFloor/SelectionScene/CT-GF-StageSelectScene.unity
+    guid: 974364654492c4c579421c7c55c52863
+  - enabled: 1
+    path: Assets/Scenes/NoisyTower/GroundFloor/NT-GF-Hospital.unity
+    guid: 713c772c72dad4f3b95b0f621ecadc77
+  - enabled: 1
+    path: Assets/Scenes/CalmTower/GroundFloor/CT-GF-Washroom.unity
+    guid: 41eb63f4276334353a4d6d1d88f1c6fa
+  - enabled: 1
+    path: Assets/Scenes/NoisyTower/FirstFloor/NT-1F-Gym.unity
+    guid: 3e8f97d2952e3484d8c5827e59db551c
+  - enabled: 1
+    path: Assets/Scenes/NoisyTower/FirstFloor/NT-1F-Workshop.unity
+    guid: fff3839b2f8bf427786c3c4944092943
+  - enabled: 1
+    path: Assets/Scenes/NoisyTower/FirstFloor/SelectionScene/NT-1F-StageSelectScene.unity
+    guid: 5892d37e66d4941af899092425df3f49
+  - enabled: 1
+    path: Assets/Scenes/NoisyTower/GroundFloor/NT-GF-Kitchen.unity
+    guid: e32049e734f7845b0bca07bfe6003175
+  - enabled: 1
+    path: Assets/Scenes/NoisyTower/GroundFloor/NT-GF-Social.unity
+    guid: fe100d389437643d29bb8979822241d8
+  - enabled: 1
+    path: Assets/Scenes/NoisyTower/FirstFloor/NT-1F-Laboratory.unity
+    guid: 0d614a1fa02444c659ef2200328ef202
+  - enabled: 1
+    path: Assets/Scenes/NoisyTower/GroundFloor/SelectionScene/NT-GF-StageSelectScene.unity
+    guid: e4eaba3fb2c2f4dd8ba1c9566a194131
+  - enabled: 1
+    path: Assets/Scenes/NoisyTower/NT-FloorSelectScene.unity
+    guid: a7e8d56cf635c479a8f54ccb2f053f6f
+  - enabled: 0
+    path: Assets/Scenes/GamePlayScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/SelectionScenes/SelectRoomScene.unity
+    guid: ba64b75225a994e3fb30afeba0f9c88f
+  - enabled: 1
+    path: Assets/Scenes/SelectionScenes/TowerSelectScene.unity
+    guid: 33284a82bda2e4b909f46420649ee10b
+  - enabled: 0
+    path: Assets/Scenes/Stages/BedroomScene.unity
+    guid: 1568dff8b67c44a5980e813d67e938c3
+  - enabled: 0
+    path: Assets/Scenes/Stages/SceneTest.unity
+    guid: 40edba1fc6ace44cd9a9cabe0ec6d7ea
+  - enabled: 0
+    path: Assets/Scenes/Stages/TestScene.unity
+    guid: 9c286bb8024728b428c6bc9a90c3a3a2
+  - enabled: 1
+    path: Assets/Scenes/UIScene.unity
+    guid: 26063f83220de4e07a257ec0d496020e
+  - enabled: 0
+    path: Assets/Scenes/Stages/TEST.unity
+    guid: 66c172ee24b6dbd47a612af6107dac6e
+  - enabled: 1
+    path: Assets/Scenes/IntroVideoScene.unity
+    guid: e2f6f9f43ba8e1d40a2968640c8d80fa
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: 4757fd642c5971340bce4e0a0e94e095
+  m_configObjects: {}

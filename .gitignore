@@ -1,0 +1,79 @@
+# =============== #
+# Unity generated #
+# =============== #
+/[Ll]ibrary/
+/[Tt]emp/
+/[Obj]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Logs]ogs/
+/[MemoryCaptures]emoryCaptures/
+.collabignore
+UserSettings/
+MemoryCaptures/
+
+
+# =================== #
+# Visual Studio files #
+# =================== #
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+*.pidb.meta
+.vs/
+*.vsidx
+
+# ================= #
+# OS generated files #
+# ================= #
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+ehthumbs.db
+Icon?
+
+# ================ #
+# Package Manager #
+# ================ #
+/Packages/packages-lock.json
+
+# ================= #
+# Plastic SCM files #
+# ================= #
+.Plastic/
+.plastic/
+
+# ================ #
+# Build outputs    #
+# ================ #
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.xcodeproj
+*.xcworkspace
+
+# ==================== #
+# JetBrains IDE files  #
+# ==================== #
+.idea/
+*.iml
+
+/Assets/PlayerInputs.cs
+/Assets/PlayerInputs.cs.meta
+# Unity crash dumps
+# Ignore Unity Mono crash dump files
+mono_crash.*
+MonoCrash.*
+*.blob
+MonoBleedingEdge/
